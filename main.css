@@ -1,0 +1,23 @@
+main {
+    max-width: 42rem;
+    padding: 2rem;
+    margin: auto;
+}
+
+h1 {
+    margin: .5em;
+}
+
+#container {
+    border: .15em solid grey;
+    border-radius: 1em;
+    background: white;
+    text-align: center;
+    padding: .5em;
+    font-size: 150%;
+}
+
+#message {
+    padding: .5em;
+    font-size: 150%;
+}
