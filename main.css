@@ -15,10 +15,13 @@ h1 {
     text-align: center;
     padding: .5em;
     font-size: 125%;
+    background-image: url(image/Merseburg.svg), url(image/Halle.svg), url(image/Berlin.svg), url(image/New-York.svg);
+    background-position: 40px 80px, 510px 80px, 40px 420px, 510px 420px;
+    background-repeat: no-repeat;
+    background-size: 120px 120px;
 }
 
 #message {
     padding: .5em;
     font-size: 150%;
 }
-
